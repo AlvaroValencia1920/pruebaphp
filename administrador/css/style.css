@@ -1,0 +1,17 @@
+.sidebar .nav-item .nav-link {
+    color: rgb(255, 255, 255) !important;
+}
+
+.nav-link {
+    color: rgb(255, 255, 255) !important;
+}
+
+.head_modal_hr {
+	background-color: #343a40 !important;
+	color: white !important;
+	border-color: #343a40 !important;
+}
+
+.equis_white {
+	color: white !important;
+}

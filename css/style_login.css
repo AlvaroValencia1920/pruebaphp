@@ -1,0 +1,22 @@
+body {
+background-image: url("../img/fondo.png") !important;
+background-repeat: no-repeat !important;
+background-size: 100% !important;
+overflow-x: hidden;
+overflow-y: hidden;
+}
+
+@media (max-width: 768px) {
+body { 
+background-image: url("../img/fondo.png") !important;
+background-repeat: no-repeat !important;
+background-size: 100% !important;    
+}
+}
+
+@media (max-width: 992px) {
+body { 
+background-image: url("../img/fondo.png") !important;
+background-repeat: no-repeat !important;
+background-size: 350% !important;   
+}

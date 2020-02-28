@@ -1,0 +1,1 @@
+<title>Prueba PHP - Administrador</title>
